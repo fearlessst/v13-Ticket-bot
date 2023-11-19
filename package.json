@@ -1,0 +1,24 @@
+{
+  "name": "neksare-studio",
+  "version": "1.0.0",
+  "description": "Neksare Studio Tarafından Yapılmıştır.",
+  "main": "bot.js",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "archiver": "^5.3.1",
+    "axios": "^1.4.0",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-meme": "^1.1.1",
+    "discord.js": "^13.1.0",
+    "discord.js-buttons": "^1.0.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^7.4.0",
+    "pretty-ms": "^8.0.0",
+    "random-puppy": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "emreconf",
+  "license": "MIT"
+}
